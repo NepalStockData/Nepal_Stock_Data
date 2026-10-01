@@ -1,14 +1,106 @@
 Date,IsTradingDay,HolidayName
+2026-12-31,True,
+2026-12-30,False,Tamu Lhosar
+2026-12-29,True,
+2026-12-28,True,
+2026-12-27,True,
+2026-12-26,False,Weekend
+2026-12-25,False,Christmas Day
+2026-12-24,False,Udhauli Parva and Yomari Punhi
+2026-12-23,True,
+2026-12-22,True,
+2026-12-21,True,
+2026-12-20,True,
+2026-12-19,False,Weekend
+2026-12-18,False,Weekend
+2026-12-17,True,
+2026-12-16,True,
+2026-12-15,True,
+2026-12-14,True,
+2026-12-13,True,
+2026-12-12,False,Weekend
+2026-12-11,False,Weekend
+2026-12-10,True,
+2026-12-09,True,
+2026-12-08,True,
+2026-12-07,True,
+2026-12-06,True,
+2026-12-05,False,Weekend
+2026-12-04,False,Weekend
+2026-12-03,True,
+2026-12-02,True,
+2026-12-01,True,
+2026-11-30,True,
+2026-11-29,True,
+2026-11-28,False,Weekend
+2026-11-27,False,Weekend
+2026-11-26,True,
+2026-11-25,True,
+2026-11-24,True,
+2026-11-23,True,
+2026-11-22,True,
+2026-11-21,False,Weekend
+2026-11-20,False,Weekend
+2026-11-19,True,
+2026-11-18,True,
+2026-11-17,True,
+2026-11-16,True,
+2026-11-15,False,Chhath Parva
+2026-11-14,False,Weekend
+2026-11-13,False,Weekend
+2026-11-12,False,Tihar Bida
+2026-11-11,False,Tihar Bida
+2026-11-10,False,Tihar Bida
+2026-11-09,False,Tihar Bida
+2026-11-08,False,Tihar Bida
+2026-11-07,False,Weekend
+2026-11-06,False,Weekend
+2026-11-05,True,
+2026-11-04,True,
+2026-11-03,True,
+2026-11-02,True,
+2026-11-01,True,
+2026-10-31,False,Weekend
+2026-10-30,False,Weekend
+2026-10-29,True,
+2026-10-28,True,
+2026-10-27,True,
+2026-10-26,True,
+2026-10-25,True,
+2026-10-24,False,Weekend
+2026-10-23,False,Dashain bida
+2026-10-22,False,Dashain bida
+2026-10-21,False,Bijaya Dashami
+2026-10-20,False,MahaNawami
+2026-10-19,False,Astami
+2026-10-18,False,MahaAstami
+2026-10-17,False,Fulpati
+2026-10-16,False,Weekend
+2026-10-15,True,
+2026-10-14,True,
+2026-10-13,True,
+2026-10-12,True,
+2026-10-11,False,Ghatasthapana
+2026-10-10,False,Weekend
+2026-10-09,False,Weekend
+2026-10-08,True,
+2026-10-07,True,
+2026-10-06,True,
+2026-10-05,True,
+2026-10-04,True,
+2026-10-03,False,Weekend
+2026-10-02,False,Weekend
+2026-10-01,True,
 2026-09-30,True,
 2026-09-29,True,
 2026-09-28,True,
 2026-09-27,True,
 2026-09-26,False,Weekend
-2026-09-25,False,Weekend
+2026-09-25,False,Indra Jatra
 2026-09-24,True,
 2026-09-23,True,
 2026-09-22,True,
-2026-09-21,True,
+2026-09-21,False,Emergengy Market Close
 2026-09-20,True,
 2026-09-19,False,Weekend
 2026-09-18,False,Weekend
@@ -21,7 +113,7 @@ Date,IsTradingDay,HolidayName
 2026-09-11,False,Weekend
 2026-09-10,True,
 2026-09-09,True,
-2026-09-08,True,
+2026-09-08,False,Gen Z Sahid Diwas
 2026-09-07,True,
 2026-09-06,True,
 2026-09-05,False,Weekend
